@@ -1,0 +1,7 @@
+python3 -m venv curso_1_openai
+source curso_1_openai/bin/activate
+
+pip install openai python-dotenv pydub instabot Pillow
+
+
+https://platform.openai.com/docs/overview
