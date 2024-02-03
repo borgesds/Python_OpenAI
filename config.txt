@@ -5,3 +5,7 @@ pip install openai python-dotenv pydub instabot Pillow
 
 
 https://platform.openai.com/docs/overview
+
+https://platform.openai.com/playground?mode=chat
+
+https://platform.openai.com/api-keys
